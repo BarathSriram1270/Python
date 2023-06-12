@@ -24,7 +24,7 @@ def game(m):
     else:
         print("Round ",m,":A is rock B is scissors A won")
         return 'a'
-n=int(input("Enter how rounds"))
+n=int(input("Enter how many rounds"))
 awin=0
 bwin=0
 m=0
